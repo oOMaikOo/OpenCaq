@@ -1,0 +1,11 @@
+Package: cclient
+Version: 0.1
+Architecture: armel
+Maintainer: krull <krull@unknown>
+Installed-Size: 28
+Depends: libc6 (>= 2.5.0-1), libgcc1 (>= 1:4.2.1), libqt4-core (>= 4.6.2~git20100401), libqt4-gui (>= 4.6.2~git20100401), libqt4-sql (>= 4.6.2~git20100401), libstdc++6 (>= 4.2.1)
+Section: unknown
+Priority: extra
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

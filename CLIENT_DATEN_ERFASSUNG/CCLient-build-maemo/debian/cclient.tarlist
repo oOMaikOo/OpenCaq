@@ -1,0 +1,6 @@
+755 root root . usr  /
+755 root root . usr/local  /
+755 root root . usr/local/bin  /
+644 root root . usr/local/bin/CCLient debian/cclient/usr/local/bin/CCLient
+755 root root . usr/bin  /
+755 root root . usr/sbin  /
